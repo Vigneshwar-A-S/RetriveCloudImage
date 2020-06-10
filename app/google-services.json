@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710389344233",
+    "firebase_url": "https://retrive-image-6392e.firebaseio.com",
+    "project_id": "retrive-image-6392e",
+    "storage_bucket": "retrive-image-6392e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710389344233:android:b46a884644f72eb5878d78",
+        "android_client_info": {
+          "package_name": "com.example.retriveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710389344233-9hh6n98n3bcha4ehoihgn1g9bvl789to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retriveimage",
+            "certificate_hash": "2a610666f5abeec9b1154ca541533f8f79e94e3e"
+          }
+        },
+        {
+          "client_id": "710389344233-5j7o3sfud6e74ihrevlvmf7q0ts2a7ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbX5kWKcNLAupwYwKjDfggICaOGJHOCGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710389344233-5j7o3sfud6e74ihrevlvmf7q0ts2a7ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
